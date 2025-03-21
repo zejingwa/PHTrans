@@ -1,2 +1,2 @@
-# Computation-of-Persistent-Homology-Transform
-A package to compute persistent homology transform of simplicial complexes
+# PHTrans.py
+The package computes persistent homology transform of a point cloud.
