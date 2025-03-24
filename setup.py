@@ -14,7 +14,7 @@ setup(
         "numpy",
         "scikit-learn",
         "gudhi",
-        "matplotlib.pyplot",
+        "matplotlib",
         "sklearn.preprocessing",
     ],  
     classifiers=[
