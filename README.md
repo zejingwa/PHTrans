@@ -4,7 +4,7 @@ The package computes persistent homology transform (PHT) of a point cloud. It pl
 Install the package using `pip`:
 
 ```bash
-pip install PHTrans
+pip install git+https://github.com/zejingwa/PHTrans
 ```
 ## Persistent homology transform
 [This paper](https://arxiv.org/pdf/1310.1030) defines persistent homology transform. In brief, the inputs of the transform contain a simplicial complex $$K$$ in $$R^n$$ and a unit vector in $$R^n$$, while its output is persistent homology of $$\{K_n\}$$ whose filtration is determined by the unit vector.
